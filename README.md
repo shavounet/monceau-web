@@ -1,4 +1,0 @@
-monceau-web
-===========
-
-Django project
